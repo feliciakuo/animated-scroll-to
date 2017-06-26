@@ -1,0 +1,35 @@
+{
+  "name": "react-animated-scroll-to",
+  "version": "0.0.0",
+  "description": "Animated scroll to the target with Easing",
+  "keyworks": [
+    "react",
+    "react component",
+    "animated",
+    "scroll to",
+    "easing"
+  ],
+  "main": "index.js",
+  "homepage": "",
+  "bugs": "",
+  "repository": {
+    "url": "https://github.com/feliciakuo/animated-scroll-to",
+    "type": "git"
+  },
+  "author": "Felicia <midori17zi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "easing-js": "^1.1.2",
+    "react": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.0",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.0.0"
+  }
+}
